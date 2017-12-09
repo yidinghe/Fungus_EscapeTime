@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: "\u80CC\u666F"
+    uniqueID: 3166538793
+    locked: 0
+  - name: "\u4E2D\u666F"
+    uniqueID: 3963767659
+    locked: 0
+  - name: "\u524D\u666F"
+    uniqueID: 2675322293
+    locked: 0
